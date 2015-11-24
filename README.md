@@ -1,7 +1,7 @@
 # ng-work-around
-angular workaround for errors
+angular workaround for errors.
 
-- angular interporlation do not work with IE.
+## angular interpolation do not work with IE.
 
 - workaround: add `ng-attr-` prefix before html attribute.
     
